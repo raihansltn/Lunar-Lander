@@ -222,7 +222,7 @@ Safe or Crash
 
 ## Author
 
-(**Raihan Sultan Basuki**)[raihansltn.github.io]
+(**Raihan Sultan Basuki**)[https://raihansltn.github.io]
 
 ---
 
